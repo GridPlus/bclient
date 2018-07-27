@@ -31,6 +31,9 @@
     "bcfg": "~0.1.0",
     "bcurl": "git+ssh://git@github.com:gridplus/bcurl.git"
   },
+  "peerDependencies": {
+    "bcurl": "git+ssh://git@github.com:gridplus/bcurl.git"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
