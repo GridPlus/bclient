@@ -29,7 +29,8 @@
   },
   "dependencies": {
     "bcfg": "~0.1.0",
-    "bcurl": "git+ssh://git@github.com:gridplus/bcurl.git"
+    "bcurl": "git+ssh://git@github.com:gridplus/bcurl.git",
+    "buffer": "^5.2.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
