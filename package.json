@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "bcfg": "~0.1.0",
-    "bcurl": "git+ssh://git@github.com:gridplus/bcurl.git",
+    "@gridplus/bcurl": "0.1.1",
     "buffer": "^5.2.0"
   },
   "devDependencies": {
