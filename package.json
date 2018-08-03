@@ -1,5 +1,5 @@
 {
-  "name": "bclient",
+  "name": "@gridplus/bclient",
   "version": "0.1.1",
   "description": "Bcoin node and wallet client",
   "keywords": [
@@ -54,5 +54,8 @@
     "transform": [
       "babelify"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://nexus.gridpl.us/repository/npm-private/"
   }
 }
