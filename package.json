@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "bcfg": "~0.1.0",
-    "@gridplus/bcurl": "0.1.1",
+    "gridplus-bcurl": "0.1.1",
     "buffer": "^5.2.0"
   },
   "devDependencies": {
