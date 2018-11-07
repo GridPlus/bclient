@@ -1,6 +1,6 @@
 {
   "name": "gridplus-bclient",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "(Grid+ Fork) Bcoin node and wallet client",
   "keywords": [
     "http",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "bcfg": "~0.1.0",
-    "gridplus-bcurl": "0.1.1",
+    "gridplus-bcurl": "0.1.2",
     "buffer": "^5.2.0"
   },
   "devDependencies": {
