@@ -32,6 +32,9 @@
     "gridplus-bcurl": "0.1.2",
     "buffer": "^5.2.0"
   },
+  "peerDependencies": {
+    "bcurl": "git+ssh://git@github.com:gridplus/bcurl.git"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
